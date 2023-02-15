@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import InputField from './components/InputField';
 
 let name: string;
 let age: number | string;
